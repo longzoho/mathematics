@@ -15,3 +15,9 @@ To get started, simply download the notebooks from this repository and open them
 The following libraries are used in these notebooks:
 - Matplotlib
 - SymPy
+
+## Install Libraries
+To install the required libraries, run the following command in your terminal:
+```
+pip install -r requirements.txt
+```
