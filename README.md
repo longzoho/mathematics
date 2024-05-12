@@ -21,3 +21,10 @@ To install the required libraries, run the following command in your terminal:
 ```
 pip install -r requirements.txt
 ```
+
+### Install MathJax
+To install MathJax, run the following command in your terminal:
+```
+pip install mathjax
+jupyter server extension enable --py jupyter_server_mathjax
+```

@@ -1,3 +1,4 @@
 jupyter
 matplotlib
 sympy
+jupyter_server_mathjax
